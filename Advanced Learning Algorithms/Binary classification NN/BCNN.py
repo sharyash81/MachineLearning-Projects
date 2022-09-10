@@ -77,3 +77,5 @@ if __name__ == "__main__":
         ax.set_axis_off()
     fig.suptitle("Label, yhat Tensorflow, yhat Numpy", fontsize=16)
     plt.show()
+
+    
