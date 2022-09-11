@@ -1,2 +1,2 @@
-# MachineLearning-Coursera
-Coursera Machine Learning Data Specialization andrewNg
+# MachineLearning-Projects
+Stanford Machine Learning Specialization - Coursera
