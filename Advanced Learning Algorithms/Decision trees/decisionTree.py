@@ -82,7 +82,4 @@ if __name__ == "__main__":
     tree = []
     build_tree_recursive(X_train, y_train, root_indices, "Root", max_depth=2, current_depth=0)
     generate_tree_viz(root_indices, y_train, tree)
-
-
-
-
+    
